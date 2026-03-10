@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #ED1C24;
+  --secondary: #1A1A1A;
+  --accent: #F5F5F5;
+}
+
+@theme {
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+}
+
+body {
+  @apply bg-white text-secondary antialiased;
+}

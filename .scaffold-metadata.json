@@ -1,0 +1,23 @@
+{
+  "projectId": "f41941ea",
+  "appName": "fresh-cuts-app",
+  "businessName": "Fresh Cuts",
+  "features": [
+    "booking",
+    "walk-in-queue",
+    "client-crm",
+    "sms-reminders",
+    "loyalty",
+    "analytics-basic",
+    "commission-tracking",
+    "payments"
+  ],
+  "businessInfo": {
+    "name": "Fresh Cuts",
+    "barber_count": 3,
+    "booking_system": "Booksy",
+    "phone": ""
+  },
+  "generatedDir": "/Users/dongsub/Documents/Potential/projects/hire-agent/agent-house-bot/generated/fresh-cuts-app-84022cd2",
+  "createdAt": "2026-03-10T04:26:31.772Z"
+}
